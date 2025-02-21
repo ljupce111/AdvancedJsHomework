@@ -4,7 +4,6 @@ const container = document.getElementById('container');
 const refresh = document.getElementById('refresh');
     
 function print(result){
-    container=innerHTML='';
     let found = false;
     for(let i=0;i<result.length;i++){
 
